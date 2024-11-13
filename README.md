@@ -14,4 +14,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/alimgty/Leet_V2/tree/master/0908-middle-of-the-linked-list) |
+## Array
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/alimgty/Leet_V2/tree/master/0560-subarray-sum-equals-k) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/alimgty/Leet_V2/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/alimgty/Leet_V2/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
