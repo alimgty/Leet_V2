@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/alimgty/Leet_V2/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/alimgty/Leet_V2/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/alimgty/Leet_V2/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
