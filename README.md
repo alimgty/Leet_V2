@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/alimgty/Leet_V2/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/alimgty/Leet_V2/tree/master/0941-sort-array-by-parity) |
 ## Array
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/alimgty/Leet_V2/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/alimgty/Leet_V2/tree/master/0724-find-pivot-index) |
+| [0941-sort-array-by-parity](https://github.com/alimgty/Leet_V2/tree/master/0941-sort-array-by-parity) |
 | [2756-buy-two-chocolates](https://github.com/alimgty/Leet_V2/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
 |  |
@@ -44,5 +46,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0941-sort-array-by-parity](https://github.com/alimgty/Leet_V2/tree/master/0941-sort-array-by-parity) |
 | [2756-buy-two-chocolates](https://github.com/alimgty/Leet_V2/tree/master/2756-buy-two-chocolates) |
 <!---LeetCode Topics End-->
