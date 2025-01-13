@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/alimgty/Leet_V2/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/alimgty/Leet_V2/tree/master/0739-daily-temperatures) |
 | [0941-sort-array-by-parity](https://github.com/alimgty/Leet_V2/tree/master/0941-sort-array-by-parity) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/alimgty/Leet_V2/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2756-buy-two-chocolates](https://github.com/alimgty/Leet_V2/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/alimgty/Leet_V2/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2756-buy-two-chocolates](https://github.com/alimgty/Leet_V2/tree/master/2756-buy-two-chocolates) |
 ## Sorting
 |  |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/alimgty/Leet_V2/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/alimgty/Leet_V2/tree/master/0739-daily-temperatures) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/alimgty/Leet_V2/tree/master/2094-remove-stones-to-minimize-the-total) |
 <!---LeetCode Topics End-->
