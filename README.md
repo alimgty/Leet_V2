@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/alimgty/Leet_V2/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/alimgty/Leet_V2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/alimgty/Leet_V2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/alimgty/Leet_V2/tree/master/0145-binary-tree-postorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/alimgty/Leet_V2/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/alimgty/Leet_V2/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/alimgty/Leet_V2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/alimgty/Leet_V2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/alimgty/Leet_V2/tree/master/0145-binary-tree-postorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/alimgty/Leet_V2/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/alimgty/Leet_V2/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/alimgty/Leet_V2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/alimgty/Leet_V2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/alimgty/Leet_V2/tree/master/0145-binary-tree-postorder-traversal) |
 ## Monotonic Stack
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/alimgty/Leet_V2/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/alimgty/Leet_V2/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/alimgty/Leet_V2/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
