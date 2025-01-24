@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/alimgty/Leet_V2/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/alimgty/Leet_V2/tree/master/0543-diameter-of-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/alimgty/Leet_V2/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/alimgty/Leet_V2/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/alimgty/Leet_V2/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/alimgty/Leet_V2/tree/master/0543-diameter-of-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/alimgty/Leet_V2/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/alimgty/Leet_V2/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/alimgty/Leet_V2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/alimgty/Leet_V2/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/alimgty/Leet_V2/tree/master/0543-diameter-of-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/alimgty/Leet_V2/tree/master/0975-range-sum-of-bst) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/alimgty/Leet_V2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/alimgty/Leet_V2/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
