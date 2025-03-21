@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/alimgty/Leet_V2/tree/master/0371-sum-of-two-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/alimgty/Leet_V2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search Tree
 |  |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/alimgty/Leet_V2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/alimgty/Leet_V2/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
