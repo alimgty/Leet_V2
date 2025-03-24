@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/alimgty/Leet_V2/tree/master/0001-two-sum) |
+| [0389-find-the-difference](https://github.com/alimgty/Leet_V2/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/alimgty/Leet_V2/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/alimgty/Leet_V2/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/alimgty/Leet_V2/tree/master/0020-valid-parentheses) |
+| [0389-find-the-difference](https://github.com/alimgty/Leet_V2/tree/master/0389-find-the-difference) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/alimgty/Leet_V2/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/alimgty/Leet_V2/tree/master/0389-find-the-difference) |
 | [0941-sort-array-by-parity](https://github.com/alimgty/Leet_V2/tree/master/0941-sort-array-by-parity) |
 | [2756-buy-two-chocolates](https://github.com/alimgty/Leet_V2/tree/master/2756-buy-two-chocolates) |
 ## Dynamic Programming
@@ -166,4 +169,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/alimgty/Leet_V2/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/alimgty/Leet_V2/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/alimgty/Leet_V2/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
