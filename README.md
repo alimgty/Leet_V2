@@ -160,8 +160,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/alimgty/Leet_V2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/alimgty/Leet_V2/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/alimgty/Leet_V2/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/alimgty/Leet_V2/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
